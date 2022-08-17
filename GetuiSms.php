@@ -1,6 +1,5 @@
 <?php
 
-namespace Common\Logic;
 use Mrstock\Helper\Config;
 
 class GetuiSmsLogic
